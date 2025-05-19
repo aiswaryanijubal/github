@@ -1,5 +1,5 @@
-a=9
+k=9
 b=4
 s=0
-s = a+b
+s = k+b
 print(s)
