@@ -1,5 +1,5 @@
 k=9
 b=5
-s=0
+s=5
 s = k+b
 print(s)
